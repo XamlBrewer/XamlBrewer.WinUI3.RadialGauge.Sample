@@ -1,0 +1,24 @@
+﻿<Page x:Class="XamlBrewer.WinUI3.RadialGauge.Sample.Views.AboutPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      mc:Ignorable="d"
+      Background="Transparent">
+
+    <Grid Margin="40 40 20 80"
+          ColumnSpacing="0"
+          RowSpacing="0">
+        <TextBlock FontSize="20">
+          <Run>Demonstrates the first WinUI3/UWP/Uno version of the Community Toolkit Radial Gauge Control</Run>
+            <LineBreak />
+            <Run Text="Currently based on its " /><Hyperlink NavigateUri="https://github.com/CommunityToolkit/Windows/pull/45">first Pull Request</Hyperlink><Run>.</Run>
+            <LineBreak /><LineBreak />  
+            <Run FontWeight="Bold">Windows Community Toolkit</Run>
+            <LineBreak />
+            <Run>Copyright (c) .NET Foundation and Contributors</Run>
+            <LineBreak />
+            <Run>All rights reserved.</Run>
+        </TextBlock>
+    </Grid>
+</Page>

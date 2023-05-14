@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "XamlBrewer.WinUI3.RadialGauge.Sample (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "XamlBrewer.WinUI3.RadialGauge.Sample (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

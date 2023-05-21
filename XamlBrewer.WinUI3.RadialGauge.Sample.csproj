@@ -13,13 +13,16 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
   <ItemGroup>
+    <Content Remove="Assets\RadialGaugeApp.png" />
+  </ItemGroup>
+  <ItemGroup>
     <None Remove="Assets\About.png" />
     <None Remove="Assets\Beer.ico" />
     <None Remove="Assets\CheshireCat.png" />
     <None Remove="Assets\Home.png" />
+    <None Remove="Assets\RadialGaugeApp.png" />
     <None Remove="Assets\TemperatureGauge.png" />
     <None Remove="Assets\WhereItStarted.png" />
-    <None Remove="Assets\winui_icon.png" />
     <None Remove="Controls\RadialGauge.xaml" />
     <None Remove="Shell.xaml" />
     <None Remove="Views\AboutPage.xaml" />

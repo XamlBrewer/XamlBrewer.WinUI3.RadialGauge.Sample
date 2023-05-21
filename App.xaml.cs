@@ -1,5 +1,4 @@
 ﻿using Microsoft.UI.Xaml;
-using XamlBrewer.WinUI3.RadialGauge.Sample;
 using XamlBrewer.WinUI3.Services;
 
 namespace XamlBrewer.WinUI3.RadialGauge.Sample

@@ -2,12 +2,13 @@
 // The .NET Foundation licenses this file to you under the MIT license.
 // See the LICENSE file in the project root for more information.
 
+// https://github.com/CommunityToolkit/Windows/blob/main/components/RadialGauge/src/RadialGauge.cs
+
 using CommunityToolkit.WinUI.Helpers;
 using System.Numerics;
 using Microsoft.UI.Xaml.Automation.Peers;
 using Microsoft.UI.Xaml.Controls.Primitives;
 using Microsoft.UI.Xaml.Controls;
-using Microsoft.UI.Xaml.Hosting;
 using Microsoft.UI.Xaml.Input;
 using Microsoft.UI.Xaml.Media;
 using Microsoft.UI.Xaml;

@@ -2,6 +2,8 @@
 // The .NET Foundation licenses this file to you under the MIT license.
 // See the LICENSE file in the project root for more information.
 
+// https://github.com/CommunityToolkit/Windows/blob/main/components/Helpers/src/ThemeListener.cs
+
 using Windows.Foundation.Metadata;
 using Windows.UI.ViewManagement;
 using Microsoft.UI.Xaml;

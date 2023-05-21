@@ -2,6 +2,8 @@
 // The .NET Foundation licenses this file to you under the MIT license.
 // See the LICENSE file in the project root for more information.
 
+// https://github.com/CommunityToolkit/Windows/blob/main/components/RadialGauge/src/RadialGauge.Properties.cs
+
 using Microsoft.UI.Xaml;
 using Microsoft.UI.Xaml.Controls.Primitives;
 using Microsoft.UI.Xaml.Media;

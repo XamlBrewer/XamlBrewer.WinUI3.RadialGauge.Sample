@@ -99,6 +99,7 @@
                                           Value="75"
                                           Unit="Items"
                                           TickSpacing="10"
+                                          IsInteractive="True"
                                           Grid.Row="1"
                                           Margin="30" />
                 </Grid>
@@ -145,6 +146,7 @@
                                           TrailBrush="Firebrick"
                                           NeedleBrush="Coral"
                                           ScaleBrush="IndianRed"
+                                          IsInteractive="True"
                                           Grid.Row="1"
                                           Margin="30" />
                 </Grid>
@@ -253,6 +255,7 @@
                                           NeedleWidth="9"
                                           Foreground="Purple"
                                           Unit="Smiles"
+                                          IsInteractive="True"
                                           Grid.Row="1"
                                           Margin="30">
                         <controls:RadialGauge.Resources>
@@ -395,6 +398,7 @@
                                           TrailBrush="Goldenrod"
                                           NeedleBrush="Khaki"
                                           TickBrush="Khaki"
+                                          IsInteractive="True"
                                           Grid.Row="1"
                                           Margin="30" />
                 </Grid>
@@ -442,6 +446,7 @@
                                           TickPadding="6"
                                           TrailBrush="Olive"
                                           NeedleBrush="Chocolate"
+                                          IsInteractive="True"
                                           Grid.Row="1"
                                           Margin="30">
                         <controls:RadialGauge.TickBrush>

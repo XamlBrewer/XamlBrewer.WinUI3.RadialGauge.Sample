@@ -15,7 +15,7 @@ public partial class RadialGauge : RangeBase
     /// Identifies the <see cref="IsInteractive"/> property.
     /// </summary>
     public static readonly DependencyProperty IsInteractiveProperty =
-        DependencyProperty.Register(nameof(IsInteractive), typeof(bool), typeof(RadialGauge), new PropertyMetadata(true, OnInteractivityChanged));
+        DependencyProperty.Register(nameof(IsInteractive), typeof(bool), typeof(RadialGauge), new PropertyMetadata(false, OnInteractivityChanged));
 
     /// <summary>
     /// Identifies the ScaleWidth dependency property.

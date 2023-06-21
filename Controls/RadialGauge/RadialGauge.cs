@@ -126,7 +126,6 @@ public partial class RadialGauge : RangeBase
         OnColorsChanged();
         OnUnitChanged(this);
         OnEnabledChanged();
-        OnInteractivityChanged(this);
         base.OnApplyTemplate();
     }
 
